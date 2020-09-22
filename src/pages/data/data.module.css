@@ -1,0 +1,10 @@
+.data{}
+.dataItem{
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid #3030c5;
+    margin-bottom: 10px;
+}
+.dataItemContentItem {
+    padding: 4px;
+}

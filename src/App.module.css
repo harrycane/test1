@@ -1,0 +1,27 @@
+.app {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  margin: auto;
+}
+.appNav {
+}
+.appNavList {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
+.appNavListItem a {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+}
+.appNavListItem a:hover{
+  color: darkred;
+}
+.appNavListItem {
+  padding: 20px;
+}
+.appNavListItem:first-child {
+  padding-left: 0;
+}
