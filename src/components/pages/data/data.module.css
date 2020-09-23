@@ -1,4 +1,9 @@
-.data{}
+.data{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
 .dataItem{
     display: flex;
     box-sizing: border-box;

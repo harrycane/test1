@@ -1,0 +1,11 @@
+.homeTitle {
+  margin: auto;
+  font-size: 20px;
+}
+.homeImg {
+}
+.homeImg > img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}

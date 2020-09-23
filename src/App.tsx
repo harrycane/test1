@@ -1,8 +1,8 @@
 import React, { FC } from "react";
 import { Link, Route, Switch } from "react-router-dom";
-import { Home } from "./pages/home/home";
-import { Data } from "./pages/data/data";
-import { Performance } from "./pages/performance/performance";
+import { Home } from "./components/pages/home/home";
+import { Data } from "./components/pages/data/data";
+import { Performance } from "./components/pages/performance/performance";
 import css from "./App.module.css";
 
 export const App: FC = () => {

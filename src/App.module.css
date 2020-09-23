@@ -5,18 +5,20 @@
   margin: auto;
 }
 .appNav {
+  display: flex;
 }
 .appNavList {
   list-style: none;
   display: flex;
   padding-left: 0;
+  margin: auto;
 }
 .appNavListItem a {
   text-transform: uppercase;
   font-weight: bold;
   text-decoration: none;
 }
-.appNavListItem a:hover{
+.appNavListItem a:hover {
   color: darkred;
 }
 .appNavListItem {

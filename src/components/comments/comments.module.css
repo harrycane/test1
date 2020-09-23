@@ -1,0 +1,10 @@
+.section {
+  display: flex;
+  flex-wrap: wrap;
+}
+.comment {
+  width: 29%;
+  margin: 2%;
+}
+.commentItem {
+}
